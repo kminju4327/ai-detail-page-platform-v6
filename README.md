@@ -1,1 +1,1 @@
-# ai-detail-page-platform-v6
+# ai-detail-page-platform-v2
